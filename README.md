@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Bavaliya</h1>
 <h3 align="center">Transforming ideas into reality by merging AI insights with full stack development and innovative problem-solving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbavaliya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbavaliya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulbavaliya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbavaliya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulbavaliya" alt="rahulbavaliya" /></a> </p>
 
